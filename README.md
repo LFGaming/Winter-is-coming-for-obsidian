@@ -9,14 +9,14 @@ Would you like to contribute? Go ahead!
 
 
 ## Credits
----
+
 This theme is made by maintained by [LFGaming]. <br/>
 Original theme made by [John Papa]. <br/>
 Used the [Dracula] theme as a format for this project. <br/>
 
 
 ## License
----
+
 [License]
 
 ---
