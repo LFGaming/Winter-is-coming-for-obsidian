@@ -1,5 +1,5 @@
-# Winter is comming for obsidian
-A unofficial obsidian port of the VScode theme Winter is comming.
+# Winter is coming for obsidian
+A unofficial obsidian port of the VScode theme Winter is coming.
 
 ![Screenshot](./pictures/demo1.png)
 
