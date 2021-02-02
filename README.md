@@ -1,7 +1,6 @@
 # Winter is comming for obsidian
 A unofficial obsidian port of the VScode theme Winter is comming.
 
-![](https://i.imgur.com/dSp3Zvr.png)
 ![Screenshot](./pictures/demo1.png)
 
 [Original theme made by John Papa]
