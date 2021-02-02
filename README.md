@@ -3,7 +3,7 @@ A unofficial obsidian port of the VScode theme Winter is coming.
 
 ![Screenshot](./pictures/demo1.png)
 
-If you feel like something should be changed, doesn't work corectly or you would like to see diferend, then please create a issue.
+If you feel like something should be changed, doesn't work corectly or you would like to see different, then please create a issue.
 
 Would you like to contribute? Go ahead!
 
