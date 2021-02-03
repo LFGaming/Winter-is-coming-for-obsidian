@@ -1,7 +1,7 @@
 # Winter is coming for obsidian
 A unofficial obsidian port of the VScode theme Winter is coming.
 
-![Screenshot](./pictures/demo1.png)
+![screenshot030221](https://i.imgur.com/cmVIl8C.png)
 
 If you feel like something should be changed, doesn't work corectly or you would like to see different, then please create a issue.
 
