@@ -49,8 +49,6 @@
   --scrollbar-bg: #042b4980;
   --scrollbar-thumb-bg: #084d8180;
 
-  --background-status-bar: #219fd5;
-
   --text-title-h1:              #5ABEB0;
   --text-title-h2:              #5ABEB0;
   --text-title-h3:              #5ABEB0;
@@ -63,6 +61,12 @@
   --blockquote-border:          #ffb86c;
   --vim-cursor:                 #ff5555;
   --border-color:               #0c499477; /*also like transparent*/
+
+  /*own*/
+  --background-status-bar: #219fd5;
+  --background-secondary-alt-header: #122d42;
+  --background-primary-inactive: #010e1a;
+
 }
 
 /*-------------------------------------*/
@@ -609,29 +613,29 @@ color: var(--text-accent) !important;
 /* header */
 
 .theme-dark .view-header {
-  background-color: var(--background-primary) !important;   
+  background-color: var(--background-primary-inactive) !important;   
   border-top: 1px solid var(--border-color) !important;
   border-bottom: 1px solid var(--border-color) !important;
 }
 
 .theme-dark .view-header-title-container:after {
-  background: linear-gradient(to bottom, transparent, var(--background-primary)) !important;
+  background: linear-gradient(to bottom, transparent, var(--background-primary-inactive)) !important;
 }
 
 .theme-dark .workspace-leaf.mod-active .view-header {
-  background-color: var(--background-secondary-alt) !important;  
+  background-color: var(--background-secondary-alt-header) !important;  
   border-top: 0px !important;
   border-bottom: 3px solid var(--interactive-accent) !important;
 }
 
 .workspace-leaf.mod-active .view-header-title-container:after {
-  background: linear-gradient(to bottom, transparent, var(--background-secondary-alt)) !important;
+  background: linear-gradient(to bottom, transparent, var(--background-secondary-alt-header)) !important;
 }
 
 .workspace-leaf.mod-active .view-header-title,
 .workspace-leaf.mod-active .view-header-icon
 {
-  color: var(--background-modifier-border);
+  color: var(--header-modifier-border);
 }
 
 .view-header-title, .view-header-icon, .view-action{
