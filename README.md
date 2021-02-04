@@ -41,6 +41,14 @@ Used the [Dracula] theme as a format for this project. <br/>
 
 [License]
 
+<br/>
+
+---
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LFGaming&repo=Winter-is-coming-for-obsidian&theme=tokyonight)](https://github.com/LFGaming/Winter-is-coming-for-obsidian)
+
 ---
 
 [CONTRIBUTING.md]: https://github.com/LFGaming/Winter-is-coming-for-obsidian/blob/main/CONTRIBUTING.md
