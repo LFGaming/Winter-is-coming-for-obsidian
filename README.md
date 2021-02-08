@@ -41,7 +41,7 @@ Used the [Dracula] theme as a format for this project. <br/>
 
 ## License
 
-[License]
+[GPL-3.0]
 
 <br/>
 
@@ -59,4 +59,4 @@ Used the [Dracula] theme as a format for this project. <br/>
 [LFGaming]: https://github.com/LFGaming
 [John Papa]: https://github.com/johnpapa/vscode-winteriscoming
 [Dracula]: https://github.com/jarodise/Dracula-for-Obsidian.md
-[License]: https://github.com/LFGaming/Winter-is-comming-for-obsidian/blob/main/LICENSE
+[GPL-3.0]: https://github.com/LFGaming/Winter-is-comming-for-obsidian/blob/main/LICENSE
