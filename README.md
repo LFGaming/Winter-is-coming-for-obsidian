@@ -13,7 +13,9 @@ A unofficial obsidian port of the VScode theme Winter is coming.
 <br><br>
 - Light
 ![screenshotlight040221](https://i.imgur.com/iMoHZYX.png)
-
+<br><br>
+- Dark
+![screenshotdark080221](https://i.imgur.com/bwlRYWg.png)
 If you feel like something should be changed, doesn't work corectly or you would like to see different, then please create a issue.
 
 Would you like to contribute? Go ahead! Maybe take a look at the [CONTRIBUTING.md] file.
